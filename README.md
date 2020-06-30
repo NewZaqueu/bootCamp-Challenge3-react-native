@@ -42,17 +42,20 @@ Para esse desafio temos os seguintes testes:
 - **`Listando repositórios`**: 
 
 
-SOON
-![](./frontend/GIFs/listando-repositorios.gif)
+<img src="./listando-repositorios.png" width="480">
 
 
 
 - **`Curtindo Repositórios`**: 
 
 
-SOON
-![](./frontend/GIFs/criando-repositorios.gif)
+![](./curtindo_repositorios.gif)
 
+
+- **`Testes`**: 
+
+
+<img src="./test-result-challenge3.png">
 
 
 Agradeço a 💜Rocketseat :wave: [Discord!](https://discordapp.com/invite/gCRAFhc)
