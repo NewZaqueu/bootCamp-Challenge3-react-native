@@ -42,7 +42,7 @@ Para esse desafio temos os seguintes testes:
 - **`Listando repositórios`**: 
 
 
-<img src="./listando-repositorios.png" width="480">
+<img src="https://github.com/NewZaqueu/bootCamp-Challenge3-react-native/blob/master/listando-repositorios.PNG" width="480">
 
 
 
@@ -55,7 +55,7 @@ Para esse desafio temos os seguintes testes:
 - **`Testes`**: 
 
 
-<img src="./test-result-challenge3.png">
+<img src="https://github.com/NewZaqueu/bootCamp-Challenge3-react-native/blob/master/test-result-challenge3.PNG">
 
 
 Agradeço a 💜Rocketseat :wave: [Discord!](https://discordapp.com/invite/gCRAFhc)
